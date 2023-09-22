@@ -1,15 +1,15 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1695327479
+::res://::1695384095
 icon.svg::CompressedTexture2D::4626038906612555086::1695327317::1695327324::1::::<><>::
 ::res://assets/::1695327458
-::res://assets/audio/::1695327458
+::res://assets/audio/::1695327480
 hurt.wav::AudioStreamWAV::199159364282102232::1695327458::1695327480::1::::<><>::
 jump.wav::AudioStreamWAV::7904100167692886736::1695327458::1695327480::1::::<><>::
-::res://assets/fonts/::1695327458
+::res://assets/fonts/::1695327479
 Kenney Pixel Square.ttf::FontFile::5659523260776990587::1695327458::1695327479::1::::<><>::
-::res://assets/textures/::1695327458
+::res://assets/textures/::1695327479
 Terrain (16x16).png::CompressedTexture2D::8276149888369789199::1695327458::1695327479::1::::<><>::
-::res://assets/textures/bg/::1695327458
+::res://assets/textures/bg/::1695327479
 Blue.png::CompressedTexture2D::44019202732549056::1695327458::1695327479::1::::<><>::
 Brown.png::CompressedTexture2D::237891353293688671::1695327458::1695327479::1::::<><>::
 Gray.png::CompressedTexture2D::4580342454054171344::1695327458::1695327479::1::::<><>::
@@ -17,7 +17,7 @@ Green.png::CompressedTexture2D::56776048570419888::1695327458::1695327479::1::::
 Pink.png::CompressedTexture2D::4460603346629819127::1695327458::1695327479::1::::<><>::
 Purple.png::CompressedTexture2D::3856960087360811072::1695327458::1695327479::1::::<><>::
 Yellow.png::CompressedTexture2D::4465054142108024948::1695327458::1695327479::1::::<><>::
-::res://assets/textures/other/::1695327458
+::res://assets/textures/other/::1695327479
 End (Idle).png::CompressedTexture2D::2879048106133895544::1695327458::1695327479::1::::<><>::
 End (Pressed) (64x64).png::CompressedTexture2D::1232528862825621735::1695327458::1695327479::1::::<><>::
 Idle.png::CompressedTexture2D::1856862251196888230::1695327458::1695327479::1::::<><>::
@@ -25,10 +25,14 @@ Jump (28x28).png::CompressedTexture2D::8615481448609972475::1695327458::16953274
 Saw.png::CompressedTexture2D::3001830117349554081::1695327458::1695327479::1::::<><>::
 Spiked Ball.png::CompressedTexture2D::7906427296938530630::1695327458::1695327479::1::::<><>::
 Start.png::CompressedTexture2D::1215336087111100180::1695327458::1695327479::1::::<><>::
-::res://assets/textures/player/::1695327458
+::res://assets/textures/player/::1695327479
 Fall (32x32).png::CompressedTexture2D::1381548458915956205::1695327458::1695327479::1::::<><>::
 Idle (32x32).png::CompressedTexture2D::6071695268034344558::1695327458::1695327479::1::::<><>::
 Jump (32x32).png::CompressedTexture2D::1632682262654828707::1695327458::1695327479::1::::<><>::
 Run (32x32).png::CompressedTexture2D::3593430152551693807::1695327458::1695327479::1::::<><>::
-::res://scenes/::1695327338
-::res://scripts/::1695327344
+::res://scenes/::1695330467
+level.tscn::PackedScene::8828906429447268836::1695330386::0::1::::<><>::res://scripts/level.gd<>uid://dmiutjh6lqx4b::::res://scenes/player.tscn<>uid://b655gj1ceyg43::::res://icon.svg
+player.tscn::PackedScene::8019291951655328775::1695330467::0::1::::<><>::uid://csrf60xdoj5ug::::res://assets/textures/player/Idle (32x32).png<>uid://txh5v4tw285v::::res://assets/textures/player/Fall (32x32).png<>res://scripts/player.gd<>uid://brgxjfwt7k4rj::::res://assets/textures/player/Run (32x32).png<>uid://xi5bkkpfyeit::::res://assets/textures/player/Jump (32x32).png
+::res://scripts/::1695330439
+level.gd::GDScript::-1::1695328378::0::1::::<>Node2D<>::
+player.gd::GDScript::-1::1695330439::0::1::::<>CharacterBody2D<>::
