@@ -9,3 +9,5 @@ res://scripts/bg.gd
 res://scenes/start.tscn
 res://scripts/start.gd
 res://scripts/level.gd
+res://scenes/exit.tscn
+res://scripts/exit.gd
