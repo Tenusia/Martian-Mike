@@ -4,3 +4,5 @@ res://scenes/jump_pad.tscn
 res://scenes/saw.tscn
 res://scenes/spikeBall.tscn
 res://scenes/tile_map.tscn
+res://scenes/bg.tscn
+res://scripts/bg.gd
