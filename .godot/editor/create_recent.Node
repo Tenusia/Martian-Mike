@@ -1,3 +1,5 @@
+AudioStreamPlayer2D
+Node
 Button
 Label
 ColorRect
@@ -13,7 +15,6 @@ Sprite2D
 ParallaxLayer
 ParallaxBackground
 TileMap
-Node
 AnimationPlayer
 Camera2D
 CharacterBody2D
