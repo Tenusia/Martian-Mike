@@ -1,4 +1,6 @@
+Button
 Label
+ColorRect
 Control
 CanvasLayer
 Node2D

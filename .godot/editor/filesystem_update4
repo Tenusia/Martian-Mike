@@ -10,3 +10,6 @@ res://scenes/bg.tscn
 res://scenes/start.tscn
 res://scenes/player.tscn
 res://scenes/exit.tscn
+res://scenes/win_screen.tscn
+res://scripts/win_screen.gd
+res://scripts/ui_layer.gd
