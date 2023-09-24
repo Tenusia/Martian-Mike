@@ -15,3 +15,4 @@ res://scripts/win_screen.gd
 res://scripts/ui_layer.gd
 res://scenes/start_menu.tscn
 res://scripts/start_menu.gd
+res://scenes/deathzone.tscn
